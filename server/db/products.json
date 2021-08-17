@@ -1,0 +1,42 @@
+[
+  {
+    "id_product": 11,
+    "product_name": "T-shirt",
+    "price": 100
+  },
+  {
+    "id_product": 12,
+    "product_name": "Кed curtain",
+    "price": 128
+  },
+  {
+    "id_product": 13,
+    "product_name": "windbreaker ",
+    "price": 499
+  },
+  {
+    "id_product": 14,
+    "product_name": "flower curtain",
+    "price": 101
+  },
+  {
+    "id_product": 15,
+    "product_name": "curtain striped",
+    "price": 60
+  },
+  {
+    "id_product": 16,
+    "product_name": "jacket",
+    "price": 370
+  },
+  {
+    "id_product": 17,
+    "product_name": "panties",
+    "price": 86
+  },
+  {
+    "id_product": 18,
+    "product_name": "sweatshirt ",
+    "price": 120
+  }
+]
