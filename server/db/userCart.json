@@ -1,0 +1,20 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 3,
+            "id_product": 11,
+            "product_name": "T-shirt",
+            "price": 100,
+            "imgPath": "img/11.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 12,
+            "product_name": "Кed curtain",
+            "price": 128,
+            "imgPath": "img/12.png"
+        }
+    ]
+}
